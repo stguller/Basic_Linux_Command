@@ -9,3 +9,7 @@ Please learn, use and share them.
 --> ls-R: Lists files in sub-directories as well
 
 --> ls-a: Lists hidden files as well
+
+--> echo : it merely prints its arguments on standard out- put for 
+$ echo My dog has fleas
+My dog has fleas
