@@ -13,3 +13,8 @@ Please learn, use and share them.
 --> echo : it merely prints its arguments on standard out- put for 
 $ echo My dog has fleas
 My dog has fleas
+
+--> sudo useradd -d /home/superjax -m superjax : 
+  -d : a home directory created for this user
+  -m : the home directory created during the process and to create the directory myself.
+  
