@@ -20,3 +20,8 @@ My dog has fleas
   
   -m : the home directory created during the process and to create the directory myself.
   
+--> du -d 1 -h : file size on directory 
+
+  -d 1: is the depth of the directories
+  
+  -h : is the human-readable option
