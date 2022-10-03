@@ -16,12 +16,12 @@ My dog has fleas
 
 --> sudo useradd -d /home/superjax -m superjax
 
-  -d : a home directory created for this user
+    -d : a home directory created for this user
   
-  -m : the home directory created during the process and to create the directory myself.
+    -m : the home directory created during the process and to create the directory myself.
   
 --> du -d 1 -h : file size on directory 
 
-  -d 1: is the depth of the directories
+    -d 1: is the depth of the directories
   
-  -h : is the human-readable option
+    -h : is the human-readable option
