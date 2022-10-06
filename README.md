@@ -25,3 +25,9 @@ My dog has fleas
     -d 1: is the depth of the directories
   
     -h : is the human-readable option
+    
+--> mkdir -p /store/file_archive : you can create a new directory with the mkdir command.
+    
+    -p : The -p flag simply creates the parent directory if it didn't already exist.
+    
+    
