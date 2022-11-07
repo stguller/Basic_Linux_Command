@@ -30,4 +30,10 @@ My dog has fleas
     
     -p : The -p flag simply creates the parent directory if it didn't already exist.
     
+--> -rw- superjax : 
+
+    r stands for read and w stands for write.
+    
+    Therefore, we can read the column (rw-), indicating the user (superjax) has access to read and write to this file.
+    
     
